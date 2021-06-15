@@ -2,29 +2,32 @@
 # Xin chào! :wave::smiley:
 
 <!--Introduction -->
-Tôi tên là Vương Tuấn Khanh. Tôi là một **Python Developer**. Tôi yêu thích lập trình vì nó giúp tôi giải quyết những vấn đề trong cuộc sống và có thể giúp đỡ được nhiều người hơn.
+Tôi tên là Vương Tuấn Khanh. Tôi là một **Python Developer**. Tôi yêu thích lập trình vì nó giúp tôi giải quyết những vấn đề trong cuộc sống và có thể giúp đỡ được nhiều người hơn. Hiện tại, tôi đang theo đuổi đam mê nghiên cứu sâu hơn vào lĩnh vực **Machine Learning** cũng như những ứng dụng của nó trong cuộc sống để tạo ra nhiều giá trị hơn.
 
 <!-- Your badges -->
-![](https://komarev.com/ghpvc/?username=ngthuong45&style=flat)
-[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ngthuong.lio@gmail.com)
+![](https://komarev.com/ghpvc/?username=vuongtuankhanh&style=flat)
+[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khanhvuongtuan37@gmail.com)
 
 
 <!-- Working GIF -->
 <img src="https://media.giphy.com/media/S6q7p6G70qH6YVupi3/giphy.gif" alt="dev_object" align="right" width="350" height="420" />
 
 ### 💼  Công việc hiện tại: 
-* Tôi đang làm dự án trợ lý ảo dành cho ôtô: [Xem dự án](https://ngthuonglio.wordpress.com)
-* Tôi đang làm Web Developer cho một công ty
-* Tôi đang tiếp tục học thêm kiến thức về ML/Deep learning và cố gắng ứng dụng nó vào cuộc sống
+* Tôi đang làm **Founder** tại **SKY UNI**: [Xem dự án](https://youtu.be/7gRVYkTZ6gE)
+* Tôi đang làm Web Developer tại [Severium](https://www.severium.com/)
+* Tôi đang làm giảng viên bộ môn **Web** và **Computer Science** tại [MindX](https://mindx.edu.vn/)
+* Tôi đang tiếp tục học thêm kiến thức về **Machine Learning** và **Deep learning**, đặc biệt là các Framework như **Pytorch**, **TensorFlow** nhằm xây dựng các mô hình tuyệt vời hơn trong tương lai.
 
 ### 🌱 Dự án của tôi:
-* Trợ lý ảo cá nhân hỗ trợ Tiếng Việt: [Xem demo](https://ngthuonglio.wordpress.com/features/)
-* Website giới thiệu xe moto Royal Enfield Việt Nam: http://royalenfieldsaigon.vn/
-* Một số website cho công ty hiện tại của tôi
-* Thư viện chuyển đổi chữ số sang số Việt Nam Number Toolkit:
+* Phòng họp tương tác Online: [Xem demo](https://youtu.be/2P7CrL45IBk)
+* Platform y tế dự đoán ảnh chụp **MRI T2** từ ảnh **T1**: [Xem dự án](https://github.com/VuongTuanKhanh/Brain-MRI-GAN)
+* Một số website và dự án cho công ty hiện tại của tôi, bao gồm [ComponentPro](https://www.componentpro.com/), [OfficeComponent](https://www.officecomponent.com/), [Severium](https://www.severium.com/) và [ProsperTasks](https://prospertasks.com/)
+* Phát triển **Shopify Liquid Theme** cho các khách hàng của công ty: [Xem dự án](https://github.com/VuongTuanKhanh/Shopify-Merchant-Themes)
+* Phát triển **KANTA Service**, một E-commerce Platform tập trung vào gợi ý sản phẩm cho khách hàng dựa theo yêu cầu của **Sendo**: [Xem dự án](https://github.com/VuongTuanKhanh/DevC_2019_Sendo)
+* Hoàn tất **KANTA Service**, một E-commerce Platform tập trung vào gợi ý sản phẩm cho khách hàng dựa theo yêu cầu của **Sendo**: [Xem dự án](https://github.com/VuongTuanKhanh/DevC_2019_Sendo)
 
 <!-- Your card -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthuong45&repo=vietnam-number&theme=dark)](https://github.com/ngthuong45/vietnam-number)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VuongTuanKhanh&repo=Brain-MRI-GAN&theme=dark)](https://github.com/VuongTuanKhanh/vietnam-number)
 
 
  ### 🔭 Ngôn ngữ lập trình và công cụ hỗ trợ: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -32,7 +35,7 @@ Tôi tên là Vương Tuấn Khanh. Tôi là một **Python Developer**. Tôi y�
 
   <a href="https://github.com/ngthuong45?tab=repositories">
     <img width="500" height="auto" align="right" alt="ngthuong45's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=ngthuong45&show_icons=true&theme=dark&count_private=true" />
+         src="https://github-readme-stats.vercel.app/api?username=vuongtuankhanh&show_icons=true&theme=dark&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="ngthuong45's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=dark" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
