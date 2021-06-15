@@ -27,7 +27,7 @@ Tôi tên là Vương Tuấn Khanh. Tôi là một **Python Developer**. Tôi y�
 
 ### 🌱 Dự án của tôi:
 | Project      | Reference |
-| ----------- | :-----------: |
+| :-----------: | :-----------: |
 | Phòng họp tương tác Online                                            | [Xem demo](https://youtu.be/2P7CrL45IBk)                    |
 | Platform y tế dự đoán ảnh chụp **MRI T2** từ ảnh **T1**               | [Xem dự án](https://github.com/VuongTuanKhanh/Brain-MRI-GAN)|
 |Một số website và dự án cho công ty hiện tại của tôi                   | [ComponentPro](https://www.componentpro.com/), [OfficeComponent](https://www.officecomponent.com/), [Severium](https://www.severium.com/), [ProsperTasks](https://prospertasks.com/)|
