@@ -12,6 +12,9 @@ Tôi tên là Vương Tuấn Khanh. Tôi là một **Python Developer**. Tôi y�
 <!-- Working GIF -->
 <img src="https://media.giphy.com/media/S6q7p6G70qH6YVupi3/giphy.gif" alt="dev_object" align="right" width="350" height="420" />
 
+[![Linkedin: TuanKhanh](https://img.shields.io/badge/-flyn3103-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vuong-tuan-khanh/)](https://www.linkedin.com/in/vuong-tuan-khanh/)
+[![GitHub Tuan Khanh](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/VuongTuanKhanh)
+
 
 ### 💼  Công việc hiện tại: 
 * Tôi đang làm **Founder** tại **SKY UNI**: [Xem dự án](https://youtu.be/7gRVYkTZ6gE)
@@ -56,7 +59,30 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 * Server: <img width="26px" src="https://simpleicons.org/icons/apache.svg" /> <img width="26px" src="https://simpleicons.org/icons/nginx.svg" /> <img width="26px" src="https://simpleicons.org/icons/amazonaws.svg" /> <img width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />
 * Tools: <img width="26px" src="https://simpleicons.org/icons/pycharm.svg" /> <img width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" /> <img width="26px" src="https://simpleicons.org/icons/filezilla.svg" /> <img width="26px" src="https://simpleicons.org/icons/sublimetext.svg" /> <img width="26px" src="https://simpleicons.org/icons/windowsterminal.svg" />
 <!-- Credit -->
-#### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs.
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Nền tảng làm việc
+
+<p>
+   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img width="390" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuongTuanKhanh&layout=compact" />    
+    </a>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code> 
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=VuongTuanKhanh&theme=dracula" width="100%"/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with everyone</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+
