@@ -12,7 +12,7 @@ Tôi tên là Vương Tuấn Khanh. Tôi là một **Python Developer**. Tôi y�
 <!-- Working GIF -->
 <img src="https://media.giphy.com/media/S6q7p6G70qH6YVupi3/giphy.gif" alt="dev_object" align="right" width="350" height="420" />
 
-[![Linkedin: TuanKhanh](https://img.shields.io/badge/-flyn3103-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vuong-tuan-khanh/)](https://www.linkedin.com/in/vuong-tuan-khanh/)
+[![Linkedin: TuanKhanh](https://img.shields.io/badge/tuankhanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vuong-tuan-khanh/)](https://www.linkedin.com/in/vuong-tuan-khanh/)
 [![GitHub Tuan Khanh](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/VuongTuanKhanh)
 
 
